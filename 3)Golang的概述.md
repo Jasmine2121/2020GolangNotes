@@ -4,21 +4,23 @@
 
  程序：完成某一个功能的指令的集合。
 
-![1582852151691](C:\Users\pjmjty\AppData\Roaming\Typora\typora-user-images\1582852151691.png)
+![](https://raw.githubusercontent.com/Jasmine2121/images/master/1582852151691.png)
 
 ## 什么是指令？
 
-![1582852194324](C:\Users\pjmjty\AppData\Roaming\Typora\typora-user-images\1582852194324.png)
+![](https://raw.githubusercontent.com/Jasmine2121/images/master/1582852194324.png)
 
 ## 为什么Go语言？
 
-![1582852217872](C:\Users\pjmjty\AppData\Roaming\Typora\typora-user-images\1582852217872.png)
+![](https://raw.githubusercontent.com/Jasmine2121/images/master/1582852217872.png)
+
+
 
 ## Go语言发展历史
 
-![1582852270624](C:\Users\pjmjty\AppData\Roaming\Typora\typora-user-images\1582852270624.png)
+![](https://raw.githubusercontent.com/Jasmine2121/images/master/1582852270624.png)
 
-![1582852688899](C:\Users\pjmjty\AppData\Roaming\Typora\typora-user-images\1582852688899.png)
+![](https://raw.githubusercontent.com/Jasmine2121/images/master/1582852668735.png)
 
 ### 为什么创造GO语言
 
@@ -28,13 +30,15 @@
 
 ### 发展简史
 
-![1582852977729](C:\Users\pjmjty\AppData\Roaming\Typora\typora-user-images\1582852977729.png)
+![](https://raw.githubusercontent.com/Jasmine2121/images/master/1582852977729.png)
 
 1.9.2 ////15年独树一帜了
 
 ## Go语言的特点
 
-![1582853156667](C:\Users\pjmjty\AppData\Roaming\Typora\typora-user-images\1582853156667.png)
+![](https://raw.githubusercontent.com/Jasmine2121/images/master/1582853156667.png)
+
+
 
 #### 简介
 
@@ -77,7 +81,7 @@ func sayOK(){
 
 支持上千上万并发，so easy
 
-![1582854041964](C:\Users\pjmjty\AppData\Roaming\Typora\typora-user-images\1582854041964.png)
+![](https://raw.githubusercontent.com/Jasmine2121/images/master/1582854041964.png)
 
 ###### 5）管道通信
 
