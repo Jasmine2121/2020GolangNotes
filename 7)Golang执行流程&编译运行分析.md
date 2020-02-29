@@ -1,6 +1,7 @@
 # Golang执行流程分析
 
 如果是对源码编译后，再执行，如下图：
+![liuchengfenxi](https://github.com/Jasmine2121/images/blob/master/1582939265472.png)
 
 ![](https://raw.githubusercontent.com/Jasmine2121/images/master/1582939265472.png)
 
