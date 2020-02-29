@@ -1,7 +1,7 @@
 # Golang执行流程分析
 
 如果是对源码编译后，再执行，如下图：
-https://github.com/Jasmine2121/images/blob/master/1582939265472.png
+![liuchengfenxi](https://github.com/Jasmine2121/images/blob/master/1582939265472.png)
 
 ![1582939265472](C:\Users\pjmjty\AppData\Roaming\Typora\typora-user-images\1582939265472.png)
 
